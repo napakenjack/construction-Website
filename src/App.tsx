@@ -14,7 +14,7 @@ import ContactPage from './pages/Contact';
 
 export default function App() {
   return (
-    <HashRouter basename={import.meta.env.BASE_URL}>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
@@ -25,7 +25,7 @@ export default function App() {
           <Route path="contact" element={<ContactPage />} />
         </Route>
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
