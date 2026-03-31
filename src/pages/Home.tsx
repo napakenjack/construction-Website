@@ -14,7 +14,7 @@ export default function HomePage() {
       <section className="relative min-h-[90vh] flex items-center pt-20 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2940&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1565008447742-97f6f38c985c?q=80&w=1931&auto=format&fit=crop" 
             alt="Modern construction site" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
