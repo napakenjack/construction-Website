@@ -47,7 +47,7 @@ export default function AboutPage() {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img 
-              src="https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2940&auto=format&fit=crop" 
+              src="https://plus.unsplash.com/premium_photo-1681691912442-68c4179c530c?fm=jpg&q=60&w=3000&auto=format&fit=crop" 
               alt="Construction site" 
               className="rounded-xl w-full h-64 object-cover"
               referrerPolicy="no-referrer"
