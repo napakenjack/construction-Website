@@ -13,7 +13,7 @@ export default function ProjectsPage() {
     { id: 2, img: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2940&auto=format&fit=crop', title: 'Nexus Commercial Center', category: 'Commercial', location: 'Downtown Metro', size: '120,000 sq ft', timeline: '24 Months' },
     { id: 3, img: 'https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2953&auto=format&fit=crop', title: 'Oakwood Residences', category: 'Residential', location: 'Westside District', size: '45 Units', timeline: '18 Months' },
     { id: 4, img: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2831&auto=format&fit=crop', title: 'Tech Hub Alpha', category: 'Turnkey', location: 'Silicon Valley', size: '55,000 sq ft', timeline: '12 Months' },
-    { id: 5, img: 'https://images.unsplash.com/photo-1541888086425-d81bb19240f5?q=80&w=2940&auto=format&fit=crop', title: 'Riverfront Tower', category: 'Ongoing', location: 'Chicago, IL', size: '32 Stories', timeline: 'Est. 2027' },
+    { id: 5, img: 'https://images.unsplash.com/photo-1702802120586-bf7e2ebd3df8?fm=jpg&q=60&w=3000&auto=format&fit=crop', title: 'Riverfront Tower', category: 'Ongoing', location: 'Chicago, IL', size: '32 Stories', timeline: 'Est. 2027' },
     { id: 6, img: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=2940&auto=format&fit=crop', title: 'Modern Estate Renovation', category: 'Residential', location: 'Hamptons, NY', size: '12,000 sq ft', timeline: '8 Months' },
   ];
 
